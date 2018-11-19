@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About the Theme
+comments : false
+---
 
 #Muhamad Febri Saputra
 
